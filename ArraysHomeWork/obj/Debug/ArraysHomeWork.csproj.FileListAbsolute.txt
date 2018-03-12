@@ -1,0 +1,6 @@
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ArraysHomeWork\ArraysHomeWork\bin\Debug\ArraysHomeWork.exe.config
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ArraysHomeWork\ArraysHomeWork\bin\Debug\ArraysHomeWork.exe
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ArraysHomeWork\ArraysHomeWork\bin\Debug\ArraysHomeWork.pdb
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.exe
+C:\Users\student\Source\Repos\IT-Cloud-Academy\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.pdb
